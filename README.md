@@ -1,16 +1,22 @@
-# day_01_animated_counter_app
+# Day 1 - Animated Counter App 🚀
 
-A new Flutter project.
+This is the first app from my **100 Days of Flutter Challenge**.  
+It's a beautifully animated and elegant **Counter App** using Flutter.
 
-## Getting Started
+## 📸 Preview
+assets/counterApp.png
 
-This project is a starting point for a Flutter application.
+## 📱 Features
+- Smooth counter animation using `AnimatedSwitcher`
+- Gradient background for an aesthetic UI
+- Custom fonts using `GoogleFonts`
+- Floating Action Button (FAB) to increment the counter
+- Responsive and simple layout
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies & Packages Used
+- Flutter SDK
+- [google_fonts](https://pub.dev/packages/google_fonts)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+

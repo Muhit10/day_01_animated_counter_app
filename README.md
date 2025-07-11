@@ -4,7 +4,8 @@ This is the first app from my **100 Days of Flutter Challenge**.
 It's a beautifully animated and elegant **Counter App** using Flutter.
 
 ## 📸 Preview
-*(assets/counterApp.png)*
+![Preview](assets/counterApp.png)
+
 
 ## 📱 Features
 - Smooth counter animation using `AnimatedSwitcher`
